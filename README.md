@@ -1,0 +1,2 @@
+# SocialMediaBlog
+Django Application
